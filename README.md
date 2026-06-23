@@ -101,4 +101,4 @@ Analyzes factors affecting employee attrition:
 
 ### Page 3: Attrition Analysis
 
-![Attrition Analysis](Dashboard_Page3_ Attrition_Analysis.png)
+![Attrition Analysis](Dashboard_Page3_Attrition_Analysis.png)
